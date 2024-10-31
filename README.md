@@ -33,7 +33,7 @@ This system uses:
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/shuvo881/RAG-System
+git clone https://github.com/zahidhasancode/RAG-APPLICATION
 cd RAG-System
 2. Set Up the Environment
 Create a virtual environment and install dependencies.
